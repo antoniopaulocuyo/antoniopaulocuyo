@@ -1,4 +1,11 @@
 ## Hi there 👋
+## I am currently a 1st year B.S. in Data Science Student
+## at Mapua University in the Philippines
+
+## I am currently learning Python, mySQL, and R.
+## I am interested in Finance, International Relations, and Machine Learning
+## Hopefully we'll get to collaborate soon!
+
 
 <!--
 **antoniopaulocuyo/antoniopaulocuyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
