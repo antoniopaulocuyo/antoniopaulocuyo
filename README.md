@@ -2,8 +2,8 @@
 
 ### Aspiring Data Analyst and Data Engineer
 
-📍 Manila, Philippines
-🎓 BS Data Science student at Mapúa University (Dean's Lister)
+📍 Manila, Philippines \
+🎓 BS Data Science student at Mapúa University (Dean's Lister) \
 🌍 Former International Relations student in Budapest, now turning a background in operations and policy into data-driven work
 
 ---
