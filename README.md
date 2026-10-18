@@ -46,6 +46,7 @@ Built and deployed a data mining pipeline on the Philippine FIES dataset, applyi
 - 🎓 **BS Data Science**, Mapúa University (2024–2027). Coursework: Statistics, Time Series Analysis, Modeling and Forecasting
 - 🎓 **BA International Relations (European Integration)**, Corvinus University of Budapest (2020–2024), Stipendium Hungaricum Recipient
 - 📜 **Google Data Analytics Professional Certificate**
+- 📜 **DeepLearning.AI Data Engineering Professional Certificate (in progress)**: currently in Introduction to Data Engineering, covering AWS
 
 ## 🎯 Interests
 
