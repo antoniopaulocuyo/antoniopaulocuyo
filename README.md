@@ -37,7 +37,7 @@ Built and deployed a data mining pipeline on the Philippine FIES dataset, applyi
 
 ## 💼 Experience Highlights
 
-- **Data Entry and Analyst Specialist**, EU Election Observation Mission to the Philippines (May 2025): Part of the Data Analysis Team monitoring the 2025 Philippine National and Local Elections.
+- **Data Analyst Assistant**, EU Election Observation Mission to the Philippines (May 2025): Monitored the outcome of the 2025 Philippine National and Local Elections, contributing to customer-facing analytics and ensuring stakeholder support.
 - **Airport Operations Coordinator**, Wizz Air Hungary (2023–2024): Analyzed real-time flight data to build contingency plans, improved on-time performance during major disruptions affecting 1,000+ flights, and led an overhaul of the department's data entry and documentation system that improved tracking accuracy by 60%.
 - **Administrative Intern**, United Nations Association of Hungary (2022–2023): Handled data entry and record-keeping, and organized the 2022 UN Day program for 30+ diplomats and 150+ guests.
 
